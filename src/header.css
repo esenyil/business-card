@@ -1,0 +1,34 @@
+.fullname{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 10px;
+    text-align: center;
+    color: white;
+}
+
+.title{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12.8px;
+    line-height: 10px;
+    text-align: center;
+    color: #F3BF99;
+}
+
+.website{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10.24px;
+    text-align: center;
+    color: white;
+}
+
+img{
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    object-position: 0 -40px;
+}
