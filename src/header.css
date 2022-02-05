@@ -1,3 +1,12 @@
+.header-container{
+    position: absolute;
+}
+
+.headers{
+    position: relative;
+    top: 20px;
+}
+
 .fullname{
     font-style: normal;
     font-weight: bold;
