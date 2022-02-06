@@ -1,6 +1,8 @@
 import './App.css';
 import Header from './Header';
 import Buttons from './Buttons';
+import Main from './Main';
+import Footer from './Footer';
 
 function App() {
   return (
@@ -9,8 +11,8 @@ function App() {
         <div className='business-card'>
           <Header />
           <Buttons />
-          {/* <Main />
-          <Footer /> */}
+          <Main />
+          <Footer />
         </div>
       </div>
     </div>

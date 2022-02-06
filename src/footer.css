@@ -1,0 +1,12 @@
+.footer-container{
+    position: absolute;
+    width: 300px;
+    bottom: 35px;
+    height: 64px;
+    background-color: #161619;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
