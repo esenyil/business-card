@@ -1,6 +1,6 @@
 .buttons-container{
-    position: absolute;
-    top: 450px;
+    display: flex;
+    justify-content: center;
 }
 
 

@@ -1,10 +1,5 @@
-.header-container{
-    position: absolute;
-}
-
 .headers{
-    position: relative;
-    top: 20px;
+    margin: 20px 0;
 }
 
 .fullname{

@@ -20,8 +20,6 @@
 
 .business-card{
     background: #1A1B21;
-    display: flex;
-    justify-content: center;
     margin-top: 20px;
     width: 300px;
     height: 730px;
